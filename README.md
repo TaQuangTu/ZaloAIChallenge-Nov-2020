@@ -7,7 +7,7 @@ https://challenge.zalo.ai/portal/traffic-sign-detection
 ### Using model: YOLOv4
 https://github.com/AlexeyAB/
 
-#### Using YOLOv4 requires followings files (all of those files were uploaded in this repo)
+#### Using YOLOv4 requires following files (all of those files were uploaded in this repo)
 1. `yolov4-custom.cfg` located at `darknet/cfg/` directory
 2. `obj.data` and `obj.names` located at `build/darknet/x64/data`
 3. `prepare.py` located at root of your project. Use this file to prepare data for training
